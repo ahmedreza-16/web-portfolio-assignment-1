@@ -1,0 +1,142 @@
+body{
+    font-family: 'Poppins', sans-serif
+}
+
+section{
+   padding-bottom: 500px
+}
+
+.tomato{
+    color: tomato;
+    font-size: 30px;
+    
+}
+.violet{
+    color:midnightblue;
+    font-size: 40px;
+
+}
+.p-welcome{
+    color: purple;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.half-width img{
+    width: 90%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 30px,30px;
+    border-radius: 10px;
+}
+.part{
+    padding-bottom: 150px;
+}
+
+#downloadbutton{
+    width: 3%;
+    
+  }
+  .donwlad-cv{
+      text-decoration: none;
+      background-image: linear-gradient(lightsalmon,tomato);
+      padding: 10px 10px;
+      border-radius: 10px;
+  
+      
+  }
+  #d-c{
+     padding-left: 10px;
+  }
+  .pic-1{
+      width: 25%;
+      float: left;
+      box-shadow: 500px 500px 500px white;
+      margin-left: 150px;
+  }
+  .pic-2{
+      width: 25%;
+      float: left;
+      margin-left: 30px;
+      box-shadow: 100px 100px 100px white;
+  }
+  .pic-3{
+      width: 25%;
+      float: left;
+      margin-left: 30px;
+      box-shadow: 100px 100px 100px white;
+  }
+.last-part h1{
+    text-align: center;
+}
+#last-class{
+    color: tomato;
+}
+
+.lets-practice{
+    margin-left: 350px;
+     
+ }
+ .banner-card{
+   position:absolute;
+ }
+ .banner-card img{
+     width: 60%;
+ }
+ .banner-txt{
+     position: absolute;
+     top: 20%;
+     
+     padding-left: 450px;
+     text-align: right;
+    
+    
+    
+ }
+ .banner2-txt{
+     position: absolute;
+     top: 25%;
+     padding-left: 25px;
+     color: white;
+ }
+ #link-button{
+     background-image: linear-gradient(lightsalmon,tomato);
+     padding: 10px 10px;
+     border-radius: 10px;
+ }
+
+ #last-class1{
+     color:midnightblue
+ }
+ .last-part{
+ background-color:white;
+}
+#s-c{
+    text-align: center;
+    color: gray;
+}
+#s-c-c{
+    text-align: center;
+    color: midnightblue;
+    font-size: 30px;
+}
+#s-c-pic1{
+    width: 4%;
+    margin-left: 560px;
+}
+#s-c-pic2{
+    width: 4%;
+    margin-left: 10px;
+    
+}
+#s-c-pic3{
+    width: 4%;
+    margin-left: 10px;
+    
+}
